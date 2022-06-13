@@ -1,4 +1,5 @@
-baseURL = 'https://taburrows.github.io'
-languageCode = 'en-gb'
-title = 'taburrows.dev'
-publishDir = 'docs'
+baseURL = "https://taburrows.github.io"
+languageCode = "en-gb"
+title = "taburrows.dev"
+publishDir = "docs"
+theme = "hugo-book"
