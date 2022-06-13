@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on taburrows.dev</title>
-    <link>https://taburrows.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on taburrows.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 13 Jun 2022 11:01:10 +0100</lastBuildDate><atom:link href="https://taburrows.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 11:01:10 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Three</title>
-      <link>https://taburrows.github.io/posts/post-three/</link>
+      <link>/posts/post-three/</link>
       <pubDate>Mon, 13 Jun 2022 11:01:10 +0100</pubDate>
       
-      <guid>https://taburrows.github.io/posts/post-three/</guid>
+      <guid>/posts/post-three/</guid>
       <description></description>
     </item>
     
